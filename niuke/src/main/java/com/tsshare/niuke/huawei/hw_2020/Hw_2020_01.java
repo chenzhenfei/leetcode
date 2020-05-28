@@ -4,9 +4,9 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * 最值问题
+ * 数组跳跃最值问题 {2,3,2,1,2,1,5} ，2->5 最小跳跃步数  - 迭代
  */
-public class Main {
+public class Hw_2020_01 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
