@@ -1,4 +1,4 @@
-package com.tsshare.niuke.huawei;
+package com.tsshare.niuke.huawei.hw_ms1_2020;
 
 import java.util.Scanner;
 
